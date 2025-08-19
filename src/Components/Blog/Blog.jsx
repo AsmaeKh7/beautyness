@@ -13,19 +13,19 @@ const Blog = () => {
 
                     <div className="ca">
                         <img src={p1} alt="" className='im' />
-                        <p>28TH MAY 2024 - BY KEVIN CORNELLIUS</p>
+                        <p>28TH MAY 2024 - BY TEKNIX</p>
                         <h2 className='tita'>The energy efficiency of the hydrotherapy or swim</h2>
                         <h3>Discover the energy efficiency of our hydrotherapy and swim services. Enjoy effective, eco-friendly relaxation and exercise options.</h3>
                     </div>
                     <div className="ca">
                         <img src={p2} alt="" className='im' />
-                        <p>28TH MAY 2024 - BY KEVIN CORNELLIUS</p>
+                        <p>28TH MAY 2024 - BY TEKNIX</p>
                         <h2 className='tita'>Tips to improve your body via cleansing</h2>
                         <h3>Discover the energy efficiency of our hydrotherapy and swim services. Enjoy effective, eco-friendly relaxation and exercise options.</h3>
                     </div>
                     <div className="ca">
                         <img src={p3} alt="" className='im' />
-                        <p>28TH MAY 2024 - BY KEVIN CORNELLIUS</p>
+                        <p>28TH MAY 2024 - BY TEKNIX</p>
                         <h2 className='tita'>Experience the beauty at our beauty spa</h2>
                         <h3>Discover the energy efficiency of our hydrotherapy and swim services. Enjoy effective, eco-friendly relaxation and exercise options.</h3>
                     </div>

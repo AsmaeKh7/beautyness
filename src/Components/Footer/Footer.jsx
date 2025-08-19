@@ -46,8 +46,8 @@ const Footer = () => {
                         </h1>
                         <ul>
                             <li>Address: 24A Kingston St, Los Vegas NC 28202, USA.</li>
-                            <li>Mail: kevincornelius1905@gmail.com</li>
-                            <li>Phone: (+00) 123 4568 009</li>
+                            <li>Mail: k.asmae@outlook.com</li>
+                            <li>Phone: (+212) 123 4568 009</li>
 
                         </ul>
                     </div>
@@ -65,7 +65,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="copy">
-                <p>© Copyright 2024. Drafted by Victor Themes. Developed by Kevin Cornellius</p>
+                <p>© Copyright {new Date().getFullYear()}. . Developed by TEKNIX </p>
             </div>
         </div>
     )

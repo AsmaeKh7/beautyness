@@ -14,7 +14,7 @@ const Reserve = () => {
         setResult("Sending....");
         const formData = new FormData(event.target);
 
-        formData.append("access_key", "API-KEY");
+        formData.append("access_key", "4fab6215-122e-4153-acd2-cf03d6ce3813");
 
         const response = await fetch("https://api.web3forms.com/submit", {
             method: "POST",
@@ -42,11 +42,11 @@ const Reserve = () => {
                     <div className="boxtext">
                         <div className="inner">
                             <h2><img src={pt} alt="" /> MAIL US :</h2>
-                            <p>kevincornelius1905@gmail.com</p>
+                            <p>k.asmae@outlook.com</p>
                         </div>
                         <div className="inner">
                             <h2><img src={pt} alt="" /> CALL US :</h2>
-                            <p>(+00) 123 4568 009</p>
+                            <p>(+212) 123 4568 009</p>
                         </div>
 
                     </div>
