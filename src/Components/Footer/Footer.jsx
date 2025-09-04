@@ -65,7 +65,7 @@ const Footer = () => {
                 </div>
             </div>
             <div className="copy">
-                <p>© Copyright {new Date().getFullYear()}. . Developed by TEKNIX </p>
+                <p>© Copyright {new Date().getFullYear()}. . Developed by Asmae k. </p>
             </div>
         </div>
     )
