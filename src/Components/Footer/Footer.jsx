@@ -45,7 +45,7 @@ const Footer = () => {
                             Keep In Touch
                         </h1>
                         <ul>
-                            <li>Address: 24A Kingston St, Los Vegas NC 28202, USA.</li>
+                            <li>Address: 24A NC 28202 .</li>
                             <li>Mail: k.asmae@outlook.com</li>
                             <li>Phone: (+212) 123 4568 009</li>
 
