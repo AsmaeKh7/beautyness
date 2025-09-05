@@ -1,6 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import Logo from '../../assets/Social/Logo.svg'
+import Logo from '../../assets/Social/Borcelle.png'
 import i1 from '../../assets/Social/1.svg'
 import i2 from '../../assets/Social/2.svg'
 import i3 from '../../assets/Social/3.svg'

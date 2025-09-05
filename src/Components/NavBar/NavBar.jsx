@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import logo from '../../assets/logo.svg'
+import logo from '../../assets/Borcelle.png'
 import contactIcon from '../../assets/contact.svg'
 import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
 import './NavBar.css'
